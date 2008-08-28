@@ -1,0 +1,40 @@
+8
+
+dir
+32
+https://svn.dev.dcpud.net/rails/plugins/acts_as_watched/spec/lib
+https://svn.dev.dcpud.net/rails
+
+
+
+2008-08-06T23:08:23.550972Z
+32
+kevinc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c246bda9-5880-4e08-b45a-4491d650aec7
+
+acts_as_watched_spec.rb
+file
+
+
+
+
+2008-08-06T23:46:55.000000Z
+739a0c3df28f1c6dbf6ac9fff64a3391
+2008-08-06T23:08:23.550972Z
+32
+kevinc
+
