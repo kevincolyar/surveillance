@@ -41,7 +41,7 @@ module Surveillance
     def get_unique_methods(base_class)
       my_super = base_class.superclass
       ret = my_super ? base_class.instance_methods - my_super.instance_methods : base_class.instance_methods
-      ret = ret - ActsAsWatched::WatcherMethods.instance_methods
+      ret = ret - Surveillance::WatcherMethods.instance_methods
       ret
     end 
   end

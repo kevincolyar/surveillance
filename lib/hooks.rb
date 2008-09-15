@@ -1,7 +1,7 @@
 module Surveillance
   module Hooks
 
-    def acts_as_watched(options = {})
+    def acts_as_surveyed(options = {})
       include Surveillance::ClassVariables
       include Surveillance::InstanceMethods
       include Surveillance::WatcherMethods
